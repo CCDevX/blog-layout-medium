@@ -10,13 +10,13 @@
 
 :root {
   font-size: 62.5%;
-  /* variables */
-  --primary: #be2529;
-  --dark: #333;
-  --secondary: #0d0d0d;
-  --gray: #ddd;
-  --gray-light: #eee;
-  --gray-hint: #555;
+  /* palette inspirée de Medium */
+  --primary: #02b875;
+  --dark: #262626;
+  --gray: #737373;
+  --gray-light: #e0e0e0;
+  --background: #fafafa;
+  --text: #121212;
 }
 
 /* general css */
